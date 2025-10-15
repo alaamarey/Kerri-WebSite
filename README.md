@@ -32,7 +32,7 @@ Here’s a quick look at the website:
 ## 💻 How to Run
 
    ```bash
-    1. git clone https://github.com/your-username/jquery-website.git
+    1. git clone https://github.com/alaamarey/Kerri-WebSite.git
     2.Open the folder in your code editor
     3.Run the project by simply opening index.html in your browser
 
