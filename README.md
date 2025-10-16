@@ -23,11 +23,9 @@ A simple and interactive website built using **HTML**, **CSS**, and **jQuery** t
 ## 📸 Preview
 Here’s a quick look at the website:
 
-
 ## 🚀 Live Demo
 
-![Website Preview](https://kerri-web-site.vercel.app/)  
-
+🔗 [View Website](https://kerri-web-site.vercel.app/)  
 
 
 ---
