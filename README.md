@@ -21,7 +21,8 @@ A simple and interactive website built using **HTML**, **CSS**, and **jQuery** t
 ---
 
 ## 📸 Preview
-![view screenShot](./kerrinscreenshot.jpg)
+
+![Website Preview](./kerriscreenshot.jpg)
 
 ## 🚀 Live Demo
 
