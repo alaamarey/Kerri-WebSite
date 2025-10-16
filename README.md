@@ -26,7 +26,7 @@ Here’s a quick look at the website:
 
 ## 🚀 Live Demo
 
-🔗![Website Preview](https://kerri-web-site.vercel.app/)  
+![Website Preview](https://kerri-web-site.vercel.app/)  
 
 
 
